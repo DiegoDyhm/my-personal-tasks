@@ -1,6 +1,6 @@
 import './App.css'
-import TaskInput from './components/inputs/task-input'
-import ListItems from './components/list/list-items';
+import TaskInput from '@components/inputs/task-input'
+import ListItems from '@components/list/list-items'
 
 function App() {
 
